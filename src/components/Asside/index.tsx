@@ -61,43 +61,43 @@ const Asside: React.FC<Iprops> = ({ handle }) => {
                          </div>
                          <div onClick={() => handle(1, 7)}>
                          <li>
-                              <img width="85" height="30" src="https://olhardigital.com.br/site/frontend/padrao/img/hdr-logo.png" alt="Logotipo Olhar Digital" />
+                              <img width="85" height="30" src="https://olhardigital.com.br/wp-content/themes/olhardigital/views/default/assets/images/header-logo.png" alt="Logotipo Olhar Digital" />
                               <div>O Futuro cada vez mais perto</div>
                          </li>
                          </div>
                          <div onClick={() => handle(1, 8)}>
                          <li>
-                              <img width="85" height="30" src="https://olhardigital.com.br/site/frontend/padrao/img/hdr-logo.png" alt="Logotipo Olhar Digital" />
+                              <img width="85" height="30" src="https://olhardigital.com.br/wp-content/themes/olhardigital/views/default/assets/images/header-logo.png" alt="Logotipo Olhar Digital" />
                               <div>Os riscos do Machine Learning</div>
                          </li>
                          </div>
                          <div onClick={() => handle(2, 9)}>
                          <li>
-                              <img width="85" height="30" src="https://olhardigital.com.br/site/frontend/padrao/img/hdr-logo.png" alt="Logotipo Olhar Digital" />
+                              <img width="85" height="30" src="https://olhardigital.com.br/wp-content/themes/olhardigital/views/default/assets/images/header-logo.png" alt="Logotipo Olhar Digital" />
                               <div>Nova teoria diz que passado, presente ...</div>
                          </li>
                          </div>
                          <div onClick={() => handle(2, 10)}>
                          <li>
-                              <img width="85" height="30" src="https://olhardigital.com.br/site/frontend/padrao/img/hdr-logo.png" alt="Logotipo Olhar Digital" />
+                              <img width="85" height="30" src="https://olhardigital.com.br/wp-content/themes/olhardigital/views/default/assets/images/header-logo.png" alt="Logotipo Olhar Digital" />
                               <div >Inteligência Artificial da IBM consegue ...</div>
                          </li>
                          </div>
                          <div onClick={() => handle(2, 11)}>
                          <li>
-                              <img width="85" height="30" src="https://olhardigital.com.br/site/frontend/padrao/img/hdr-logo.png" alt="Logotipo Olhar Digital" />
+                              <img width="85" height="30" src="https://olhardigital.com.br/wp-content/themes/olhardigital/views/default/assets/images/header-logo.png" alt="Logotipo Olhar Digital" />
                               <div>Inteligência artificial ajuda a Nasa...</div>
                          </li>
                          </div>
                          <div onClick={() => handle(2, 12)}>
                          <li>
-                              <img width="85" height="30" src="https://olhardigital.com.br/site/frontend/padrao/img/hdr-logo.png" alt="Logotipo Olhar Digital" />
+                              <img width="85" height="30" src="https://olhardigital.com.br/wp-content/themes/olhardigital/views/default/assets/images/header-logo.png" alt="Logotipo Olhar Digital" />
                               <div>Como a inteligência artificial pode mudar...</div>
                          </li>
                          </div>
                          <div onClick={() => handle(2, 13)}>
                          <li>
-                              <img width="85" height="30" src="https://olhardigital.com.br/site/frontend/padrao/img/hdr-logo.png" alt="Logotipo Olhar Digital" />
+                              <img width="85" height="30" src="https://olhardigital.com.br/wp-content/themes/olhardigital/views/default/assets/images/header-logo.png" alt="Logotipo Olhar Digital" />
                               <div>Cientistas criam programa poderoso...</div>
                          </li>
                          </div>
